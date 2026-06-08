@@ -4,7 +4,7 @@ An interactive data analytics application that transforms raw WhatsApp chat expo
 
 ## Live Demo
 
-🔗 **Deployed Application:** whatsapp-chat-analyzer-w4dqhpsgjj9k7grcqvbny5
+🔗 **Deployed Application:** https://whatsapp-chat-analyzer-w4dqhpsgjj9k7grcqvbny5.streamlit.app/
 
 ## 📌 Features
 
